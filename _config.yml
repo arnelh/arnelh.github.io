@@ -1,1 +1,29 @@
 theme: jekyll-theme-cayman
+
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            'The title'
+tagline:          'Pay off goes here'
+description:      'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.'
+
+url:              http://arnelh.github.io
+baseurl:          /
+
+author:
+  name:           'Ionela Dolgan'
+  url:            https://twitter.com/IonelaDolgan
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/arnelh/arnelh.github.io
